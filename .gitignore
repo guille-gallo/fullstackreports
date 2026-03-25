@@ -1,0 +1,27 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backend
+backend/build/
+backend/.gradle/
+backend/out/
+backend/bin/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/src/api/generated/
+frontend/src/api/openapi.json
+
+# Docker
+docker/data/
+
+# Environment
+.env
+.env.local
